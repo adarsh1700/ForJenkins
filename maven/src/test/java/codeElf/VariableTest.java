@@ -7,7 +7,7 @@ public class VariableTest {
 	@Test
 	
 	public static void code() {
-	 Reporter.log("enter a variable");
+	 Reporter.log("enter a variable",true);
 	 
 	}
 
